@@ -1,0 +1,10 @@
+[Activity]
+name = Share Favorites
+activity_version = 1
+license = GPLv3
+bundle_id = org.sugarlabs.ShareFavorites
+exec = sugar-activity ShareFavorites.ShareFavorites
+icon = activity-favorites
+show_launcher = yes
+summary = share your favorite activities
+
